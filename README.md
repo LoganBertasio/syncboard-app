@@ -1,2 +1,3 @@
 # SyncBoard MVP
-This project includes the base layout and structure for the SyncBoard web app.
+
+This is the full base setup of the SyncBoard app with components, pages, and layout.
